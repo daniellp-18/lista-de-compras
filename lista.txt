@@ -3,6 +3,7 @@ Preciso comprar:
 MAÇÃ
 ABACTAE
 MELÃO
+UVAS
 GOIABA
 
 Essa é a minha lista de compras.
