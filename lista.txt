@@ -1,0 +1,7 @@
+Preciso comprar:
+maçã
+banana
+abacate 
+mamão
+
+Essa é a minha lista de compras.
