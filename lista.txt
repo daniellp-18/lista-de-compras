@@ -1,7 +1,8 @@
 Preciso comprar:
-maçã
-abacate 
-mamão
-melãncia
+
+MAÇÃ
+ABACTAE
+MELÃO
+GOIABA
 
 Essa é a minha lista de compras.
