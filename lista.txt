@@ -3,5 +3,6 @@ maçã
 banana
 abacate 
 mamão
+melãncia
 
 Essa é a minha lista de compras.
